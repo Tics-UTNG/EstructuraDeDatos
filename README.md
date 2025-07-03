@@ -6,19 +6,22 @@ Este repositorio contiene ejemplos prácticos y explicaciones de las principales
 
 ## 📑 Índice
 
-1. [Unidad 1: Estructuras Lineales](#unidad-1-estructuras-lineales)
-2. [Unidad 2: Estructuras No Lineales](#unidad-2-estructuras-no-lineales)
-3. [Unidad 3: Estructuras Dinámicas y Avanzadas](#unidad-3-estructuras-dinámicas-y-avanzadas)
+1. [Unidad 1: Conceptos Básicos de Estructuras de Datos Orientadas a Objetos](#unidad-1-estructuras-lineales)
+2. [Unidad 2: Estructuras De Datos Básicas](#unidad-2-estructuras-no-lineales)
+3. [Unidad 3: Estructuras De Datos Avanzadas](#unidad-3-estructuras-dinámicas-y-avanzadas)
 
 ---
 
-## 🧩 Unidad 1: Estructuras Lineales
+## 🧩 Unidad 1:  Conceptos Básicos de Estructuras de Datos Orientadas a Objetos
+🎯 Propósito  
+El estudiante desarrollará habilidades para implementar estructuras de datos utilizando tipos de datos abstractos, recursividad, arreglos, clases parametrizadas y tipos genéricos con el fin de optimizar la gestión y manipulación de información en entornos de programación.
 
 ### ✅ Contenidos:
-- Listas Enlazadas
-- Pilas (Stacks)
-- Colas (Queues)
-
+- Tipo de datos abstractos.
+- Recursividad
+- Arreglos
+- Clases parametrizadas y tipos genéricos
+ 
 ### 📄 Ejemplo: Pila en Java
 
 ```java
