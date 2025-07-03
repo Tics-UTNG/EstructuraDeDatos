@@ -1,4 +1,5 @@
-package escolar;
+package unidad_uno.ejemplo2;
+
 /**
  * La clase Libro representa a los libros de una biblioteca
  */

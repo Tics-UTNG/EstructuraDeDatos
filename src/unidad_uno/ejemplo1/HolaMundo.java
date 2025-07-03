@@ -1,4 +1,4 @@
-package unidad_uno;
+package unidad_uno.ejemplo1;
 
 /**
  * Clase que despliega en consola el Hola Mundo
